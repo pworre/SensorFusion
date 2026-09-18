@@ -9,8 +9,7 @@ This project uses a Python virtual environment (`venv`) to manage its dependenci
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/pworre/SensorFusion.git
 ```
 
 ### 2. python3 -m venv .venv
